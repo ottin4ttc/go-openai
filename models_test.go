@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/ottin4ttc/go-openai"
+	"github.com/ottin4ttc/go-openai/internal/test/checks"
 )
 
 const testFineTuneModelID = "fine-tune-model-id"
